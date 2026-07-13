@@ -119,5 +119,13 @@ Modelos de Espaço de Estados são amplamente utilizados em problemas de previs�
 ## 10. Conclusão
 
 <p align="justify">
-Este projeto apresenta uma aplicação prática de modelos de Espaço de Estados para previsão de demanda. A decomposição automática da série permite compreender os fatores que influenciam o comportamento observado, enquanto o mecanismo de previsão produz estimativas acompanhadas por intervalos de confiança, oferecendo suporte mais robusto para decisões de planejamento e gestão.
+Os modelos de Espaço de Estados constituem uma ferramenta poderosa para apoiar a tomada de decisão em ambientes onde a demanda apresenta tendência, sazonalidade e variações ao longo do tempo. Ao separar esses componentes e produzir previsões acompanhadas de intervalos de confiança, o modelo fornece uma visão mais completa do comportamento esperado da demanda futura.
+</p>
+
+<p align="justify">
+No contexto comercial, essas previsões permitem direcionar campanhas promocionais para períodos de baixa demanda, reforçar ações de marketing em momentos estratégicos, ajustar níveis de estoque antes de picos sazonais, otimizar compras junto a fornecedores e planejar equipes de vendas e logística com maior eficiência. Além disso, os intervalos de confiança ajudam a quantificar a incerteza das previsões, permitindo decisões mais seguras em relação à alocação de recursos e ao gerenciamento de riscos.
+</p>
+
+<p align="justify">
+Dessa forma, modelos de Espaço de Estados transformam séries históricas em informações estratégicas capazes de orientar ações comerciais, reduzir custos operacionais, melhorar o nível de serviço ao cliente e aumentar as oportunidades de geração de receita por meio de um planejamento baseado em dados.
 </p>
